@@ -5,16 +5,16 @@ remote_theme: "just-the-docs/just-the-docs"
 
 nav:
   - title: "Planetas"
-    url: "planetas.md"
+    url: "/planetas"
     children:
       - title: "Planetas Interiores"
         url: "/planetas/interiores/"
       - title: "Planetas Exteriores"
         url: "/planetas/exteriores/"
   - title: "Lunas"
-    url: "lunas.md"
+    url: "/lunas"
   - title: "Sol"
-    url: "sol.md"
+    url: "/sol"
   - title: "NASA"
     url: "https://www.nasa.gov"
     external: true
