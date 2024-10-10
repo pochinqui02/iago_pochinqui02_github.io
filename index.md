@@ -1,6 +1,7 @@
 ---
 title: Sistema Solar
 layout: default
+nav_order: 1
 ---
 
 # Bienvenidos al Sistema Solar
