@@ -4,5 +4,21 @@ theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+just_the_docs:
+  search_enabled: false
+  navigation:
+    - title: "Página 1"
+      url: /pagina1/
+    - title: "Página 2"
+      url: /pagina2/
+      children:
+        - title: "Submenú 1"
+          url: /pagina2/submenu1/
+        - title: "Submenú 2"
+          url: /pagina2/submenu2/
+    - title: "Página 3"
+      url: /pagina3/
+    - title: "Enlace Externo"
+      url: https://www.nasa.gov/
+      external: true
+      
