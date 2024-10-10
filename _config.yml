@@ -1,25 +1,22 @@
 title: "Sistema Solar"
-logo: "/assets/images/sol.png"
-theme: just-the-docs
+description: "Explorando el Sistema Solar"
+theme: "just-the-docs"
+remote_theme: "just-the-docs/just-the-docs"
 
-just_the_docs:
-  search_enabled: false
-  navigation:
-    - title: "El Sol"
-      url: /sol/
-    - title: "Planetas"
-      url: /planetas/
-      children:
-        - title: "Mercurio"
-          url: /planetas/mercurio/
-        - title: "Venus"
-          url: /planetas/venus/
-        - title: "Tierra"
-          url: /planetas/tierra/
-        - title: "Marte"
-          url: /planetas/marte/
-    - title: "Otros Cuerpos Celestes"
-      url: /cuerpos-celestes/
-    - title: "NASA (Enlace Externo)"
-      url: https://www.nasa.gov/
-      external: true
+nav:
+  - title: "Planetas"
+    url: "/planetas/"
+    children:
+      - title: "Planetas Interiores"
+        url: "/planetas/interiores/"
+      - title: "Planetas Exteriores"
+        url: "/planetas/exteriores/"
+  - title: "Lunas"
+    url: "/lunas/"
+  - title: "Sol"
+    url: "/sol/"
+  - title: "NASA"
+    url: "https://www.nasa.gov"
+    external: true
+
+search_enabled: false
