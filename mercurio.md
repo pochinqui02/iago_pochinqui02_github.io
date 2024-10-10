@@ -1,5 +1,5 @@
 ---
-title: "Mercurio"
+titulo: "Mercurio"
 layout: default
 ---
 ## Mercurio
