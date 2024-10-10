@@ -1,6 +1,7 @@
 ---
 title: Sol
 layout: default
+nav_order: 3
 ---
 
 # El Sol
