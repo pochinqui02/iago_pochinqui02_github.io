@@ -1,24 +1,27 @@
-title: El Sistema Solar
-description: ¡Una página web simple para aprender sobre el Sistema Solar!
+
+title: "Sistema Solar"
+logo: "/assets/images/sol.png"
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
 
 just_the_docs:
   search_enabled: false
   navigation:
-    - title: "Página 1"
-      url: /pagina1/
-    - title: "Página 2"
-      url: /pagina2/
+    - title: "El Sol"
+      url: /sol/
+    - title: "Planetas"
+      url: /planetas/
       children:
-        - title: "Submenú 1"
-          url: /pagina2/submenu1/
-        - title: "Submenú 2"
-          url: /pagina2/submenu2/
-    - title: "Página 3"
-      url: /pagina3/
-    - title: "Enlace Externo"
+        - title: "Mercurio"
+          url: /planetas/mercurio/
+        - title: "Venus"
+          url: /planetas/venus/
+        - title: "Tierra"
+          url: /planetas/tierra/
+        - title: "Marte"
+          url: /planetas/marte/
+    - title: "Otros Cuerpos Celestes"
+      url: /cuerpos-celestes/
+    - title: "NASA (Enlace Externo)"
       url: https://www.nasa.gov/
       external: true
-      
