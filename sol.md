@@ -1,5 +1,5 @@
 ---
-title: "El Sol"
+titulo: "El Sol"
 layout: default
 ---
 ## El Sol
