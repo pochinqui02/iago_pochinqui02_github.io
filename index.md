@@ -1,5 +1,5 @@
 ---
-title: "Sistema Solar"
+titulo: "Sistema Solar"
 layout: default
 nav_order: 1
 ---
@@ -19,9 +19,9 @@ El Sistema Solar está compuesto por:
 - **Otros cuerpos celestes**: Satélites naturales, asteroides, cometas y cuerpos menores.
 
 Explora más sobre los elementos principales del Sistema Solar:
-- [El Sol](./sol/)
-- [Planetas](./planetas/)
-- [Otros Cuerpos Celestes](./cuerpos-celestes/)
+- [El Sol](./sol/index.html)
+- [Planetas](./planetas/index.html)
+- [Otros Cuerpos Celestes](./cuerpos-celestes/index.html)
 
 ## Planetas del Sistema Solar
 
@@ -29,11 +29,22 @@ Los planetas se dividen en dos grupos:
 1. **Planetas rocosos**: Mercurio, Venus, Tierra y Marte.
 2. **Planetas gigantes gaseosos**: Júpiter, Saturno, Urano y Neptuno.
 
-Puedes aprender más sobre cada planeta navegando a las páginas dedicadas en este sitio.
+Puedes aprender más sobre cada planeta navegando a las páginas dedicadas en este sitio:
+
+- [Mercurio](./planetas/mercurio/index.html)
+- [Venus](./planetas/venus/index.html)
+- [Tierra](./planetas/tierra/index.html)
+- [Marte](./planetas/marte/index.html)
 
 ## Otros Cuerpos Celestes
 
 El Sistema Solar también contiene asteroides, cometas y el cinturón de Kuiper, que es el hogar de planetas enanos como Plutón. Estos cuerpos también orbitan el Sol, y algunos, como los cometas, tienen trayectorias muy excéntricas.
+
+- [Más sobre Otros Cuerpos Celestes](./cuerpos-celestes/index.html)
+
+---
+
+Visita también la [NASA](https://www.nasa.gov/) para más información sobre las misiones espaciales y los últimos descubrimientos del Sistema Solar.
 
 ---
 
