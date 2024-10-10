@@ -9,5 +9,5 @@ nav_order: 2
 
 Nuestro Sistema Solar tiene ocho planetas principales. Aquí puedes explorar más detalles sobre ellos:
 
-- [Planetas Interiores](interiores/)
-- [Planetas Exteriores](exteriores/)
+- [Planetas Interiores](interiores.md)
+- [Planetas Exteriores](exteriores.md)
