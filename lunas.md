@@ -1,6 +1,7 @@
 ---
 title: Lunas
 layout: default
+nav_order: 2
 ---
 
 # Lunas del Sistema Solar
