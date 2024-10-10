@@ -10,9 +10,9 @@ Explora nuestro fascinante sistema planetario, desde el imponente Sol hasta los 
 
 ## Contenido
 
-- [Planetas](planetas.md)
-- [Lunas](lunas.md)
-- [Sol](sol.md)
+- [Planetas](/planetas)
+- [Lunas](/lunas)
+- [Sol](/sol)
 
 ### Puedes visitar la Nasa para más información
 
