@@ -8,7 +8,7 @@ parent: Planetas
 
 Los planetas interiores del Sistema Solar son:
 
-- **Mercurio**: El planeta más cercano al Sol.
+- **Mercurio**: El planeta más cercano al Sol.            ![Imagen de los planetas interiores](https://quizizz.com/media/resource/gs/quizizz-media/quizzes/e11b3480-d866-47e3-a73a-169e826e586a)
 - **Venus**: El planeta más caliente.
 - **Tierra**: Nuestro hogar.
 - **Marte**: El planeta rojo.
