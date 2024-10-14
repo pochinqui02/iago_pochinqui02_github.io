@@ -13,7 +13,7 @@ Los planetas exteriores del Sistema Solar son:
 - **Urano**: Un gigante de hielo.
 - **Neptuno**: El planeta más lejano.
 
-Nótese que, desde la redefinición de planeta de 2006, Plutón ya no se considera un planeta, sino que se considera planeta enano.1​
+Nótese que, desde la redefinición de planeta de 2006, Plutón ya no se considera un planeta, sino que se considera planeta enano.
 
 Sus características más importantes son:
 
