@@ -11,6 +11,3 @@ Etimológicamente, la palabra "planeta" proviene del latín planeta, que a su ve
 
 Muchos siglos después, al irse aceptando el conocimiento de la trayectoria real y predecible de estos planetas y la Tierra, se la denominó también como un planeta más.
 Nuestro Sistema Solar tiene ocho planetas principales. Aquí puedes explorar más detalles sobre ellos:
-
-- [Planetas Interiores](/interiores)
-- [Planetas Exteriores](/exteriores)
