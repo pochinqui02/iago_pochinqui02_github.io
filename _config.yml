@@ -15,8 +15,12 @@ nav:
     url: "/lunas/"
   - title: "Sol"
     url: "/sol/"
-  - title: "NASA"
+    
+nav_external_links:
+  - title: "Just the Docs on GitHub"
     url: "https://www.nasa.gov"
-    external: true
+    hide_icon: false 
+    opens_in_new_tab: true 
+
 
 search_enabled: false
