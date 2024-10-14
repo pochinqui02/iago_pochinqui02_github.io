@@ -20,8 +20,8 @@ nav:
 nav_external_links:
   - title: Página oficial de la NASA
     url: "https://www.nasa.gov"
-    hide_icon: false 
-    opens_in_new_tab: true 
+    hide_icon: false
+    opens_in_new_tab: true
 
 
 search_enabled: false
