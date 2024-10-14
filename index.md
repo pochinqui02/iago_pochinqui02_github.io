@@ -13,6 +13,3 @@ El sistema solar es también el hogar de varias regiones compuestas por objetos 
 
 Adicionalmente a los miles de objetos pequeños de estas dos zonas, algunas docenas de los cuales son candidatos a planetas enanos, existen otros grupos como cometas, centauros y polvo cósmico que viajan libremente entre regiones. Seis planetas y cuatro planetas enanos poseen satélites naturales. El viento solar, un flujo de plasma del Sol, crea una burbuja de viento estelar en el medio interestelar conocido como heliosfera, la que se extiende hasta el borde del disco disperso. La nube de Oort, la cual se cree que es la fuente de los cometas de período largo, es el límite del sistema solar y su borde está ubicado a un año luz desde el Sol.
 
-### Puedes visitar la Nasa para más información
-
-[Página oficial de la NASA](https://www.nasa.gov) ![Logo de la NASA](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1200px-NASA_logo.svg.png)
