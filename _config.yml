@@ -17,7 +17,7 @@ nav:
     url: "/sol/"
     
 nav_external_links:
-  - title: "Just the Docs on GitHub"
+  - title: "Página oficial de la NASA"
     url: "https://www.nasa.gov"
     hide_icon: false 
     opens_in_new_tab: true 
