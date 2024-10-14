@@ -15,4 +15,4 @@ Adicionalmente a los miles de objetos pequeños de estas dos zonas, algunas doce
 
 ### Puedes visitar la Nasa para más información
 
-[Página oficial de la NASA](https://www.nasa.gov)
+[Página oficial de la NASA](https://www.nasa.gov) ![Logo de la NASA](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1200px-NASA_logo.svg.png)
