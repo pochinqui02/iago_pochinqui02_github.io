@@ -4,6 +4,8 @@ description: "Explorando el Sistema Solar"
 theme: "just-the-docs"
 remote_theme: "just-the-docs/just-the-docs"
 
+url: "https://pochinqui02.github.io/pochinqui02_github.io/sol.html"
+
 nav:
   - title: "Planetas"
     url: "/planetas/"
