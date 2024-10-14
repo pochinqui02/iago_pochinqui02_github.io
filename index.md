@@ -6,6 +6,8 @@ nav_order: 1
 
 # Bienvenidos al Sistema Solar
 
+![Imagen del Sistema Solar](https://www.universidadviu.com/sites/universidadviu.com/files/images/iStock-646860706.jpg)
+
 Explora nuestro fascinante sistema planetario, desde el imponente Sol hasta los lejanos planetas exteriores. A continuación, encontrarás información detallada sobre los planetas, sus lunas y mucho más.
 El sistema solar es el sistema planetario que liga gravitacionalmente a un conjunto de objetos astronómicos que giran directa o indirectamente en una órbita alrededor de una única estrella conocida con el nombre de Sol.
 
