@@ -16,7 +16,7 @@ nav:
   - title: "Sol"
     url: "/sol/"
   - title: "NASA"
-    url: ""
+    url: "https://www.nasa.gov"
     external: true
 
 search_enabled: false
